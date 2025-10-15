@@ -69,7 +69,7 @@ export default {
         "accordion-up": "accordion-up 0.2s ease-out",
       },
       fontFamily: {
-        sans: ['Satisfy', 'cursive'],
+        sans: ['SUSE Mono', 'sans-serif'],
       },
     },
   },

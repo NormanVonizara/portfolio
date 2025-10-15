@@ -3,8 +3,6 @@ import { Github, Linkedin, Mail, ArrowDown } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import Scene3D from '../common/Scene3D';
 
-
-
 export default function Hero() {
       return (
             <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden">
@@ -52,7 +50,7 @@ function HeroLeft () {
                         <p className="text-accent text-lg font-semibold mb-2">
                               Bonjour, je suis
                         </p>
-                        <h1 className="text-5xl md:text-7xl font-bold mb-4">
+                        <h1 className="text-4xl md:text-6xl font-bold mb-4">
                               <span className="text-gradient">
                                     Norman Ludovic
                               </span>
